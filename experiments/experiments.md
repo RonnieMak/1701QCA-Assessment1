@@ -15,11 +15,11 @@ Using an LDR and analog inputs.
 
 ![Image](ex1.exic)
 
-Photo shown the sucessful experiment of lighten up the LED with a complece circuit. 
+Photo shown the sucessful experiment of lighten up the LED with light sensor within a complece circuit. 
 
 #### Reflection ####
 
-This is one of the very first experiments with the micro bit, it teaches me how to complete an electric circuit with wire, resistant and LED light. This is a critical technique for the feature project using the micro bit. 
+This is one of the very first experiments with the micro bit, it teaches me how to complete an electric circuit with wire, resistant and LED light, and how to control the compont using the code. This is a critical technique for the feature project using the micro bit. 
 
 This experiment could be the basis of a real world application such as 
 
