@@ -49,13 +49,13 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](ex3.jpg)
 
-(Insert a caption here)
+Photo shown the successful build to operate the piezo buzzer. (It can't show it is making sound but it does)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to wire and operate the buzzer, and the code to control it. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as the warning sound in the any device, kid toys like the talking teddy bear they will have a speaker inside when you press the button it will play some sound. 
 
 ### Experiment name ###
 
