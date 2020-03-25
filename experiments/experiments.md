@@ -59,7 +59,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Making a Pedestrian Crossing
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -76,7 +76,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Making A Random Dice
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
