@@ -66,13 +66,13 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](ex4.jpg)
 
-(Insert a caption here)
+photo shown the successful build to operate the pedestrain crossing experiment with LED light and buzzer. 
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was wire and control multiple LED light and buzzer using button and code. This is a useful skill for me to learn how to build, wire, code and control multiple components which would probably needed for the feature build. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as pedestrian crossing light. Of course, in real world condition things will be more complicated with all the sensor, time control and remote control of the traffic light. But the concept is basiclly the same as this experiment built. It can also imitate the same build to even bigger and creative build such as the Christmas decoration light in the building or maybe firework control. 
 
 ### Experiment name ###
 
