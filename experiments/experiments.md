@@ -15,7 +15,7 @@ In the code below, replace `missingimage.png` with the name of the image, which 
 
 ![Image](ex1.jpg)
 
-Photo shown the sucessful experiment of lighten up the LED with light sensor within a complece circuit. 
+Photo shown the successful experiment of lighten up the LED with light sensor within a complece circuit. 
 
 #### Reflection ####
 
@@ -32,13 +32,13 @@ Using a transistor to drive a motor.
 
 ![Image](ex2.jpg)
 
-(Insert a caption here)
+Photo shown the successful experiment of using the pulse to control the fan speed.
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to insert and operate the transistor, motor and fan, and how to use code to control the fan speed with pulse. Also how to power up something that need a lot of power, in this case the motor. We use the transistor to allow a lot of current to flow through to motor which give it enough power to work. This is important for the feature if we need to operate something that need a lot of power. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as button to turn electric component on or off. The light, the computer, fan etc. All of these device require a transistor to control the current flow. And daily life device which requires good sound quality because transistor are often used in amplifying circuits. 
 
 ### Experiment name ###
 
