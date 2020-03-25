@@ -30,7 +30,7 @@ Using a transistor to drive a motor.
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](ex2.jpg)
 
 (Insert a caption here)
 
@@ -47,7 +47,7 @@ Setting The Tone With A Piezo Buzzer
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](ex3.jpg)
 
 (Insert a caption here)
 
@@ -64,7 +64,7 @@ Making a Pedestrian Crossing
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](ex4.jpg)
 
 (Insert a caption here)
 
@@ -81,7 +81,7 @@ Making A Random Dice
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](ex5.jpg)
 
 (Insert a caption here)
 
