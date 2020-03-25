@@ -13,7 +13,7 @@ Using an LDR and analog inputs.
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](ex1.exic)
+![Image](ex1.jpg)
 
 Photo shown the sucessful experiment of lighten up the LED with light sensor within a complece circuit. 
 
