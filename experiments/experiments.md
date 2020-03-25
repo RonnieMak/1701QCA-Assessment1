@@ -19,7 +19,7 @@ Photo shown the successful experiment of lighten up the LED with light sensor wi
 
 #### Reflection ####
 
-This is one of the very first experiments with the micro bit, it teaches me how to complete an electric circuit with wire, resistant and LED light, and how to control the compont using the code. This is a critical technique for the feature project using the micro bit. 
+This is one of the very first experiments I do with the micro bit, it teaches me how to complete an electric circuit with wire, resistant and LED light, and how to control the compont using the code. This is a critical technique for the feature project using the micro bit. 
 
 This experiment could be the basis of a real world application such as the red light green light for the pedestrian crossing; the icon will change if the user pressed the button in this experiment it used the light sensor to change the icon. Which means it can do the same thing if we just change the code. 
 
@@ -88,5 +88,6 @@ Photo shown the successful build of the Random dice, I rowed a 5 in the photo.
 #### Reflection ####
 
 In this experiment, something new to me was or something I learned was how to build and wire a complicated LED set up and how to use the if.....else... code to create some random number and show it with the LED light. Which is useful if in the feature I need to generate a random number to control different component. 
+
 This experiment could be the basis of a real world application such as play a random song in the playlist if you thing of each song is a number and when you press the button it select a random number and the LED is to play it. Or some gambling equipment, in this case they will just have to add more number in it. 
 
