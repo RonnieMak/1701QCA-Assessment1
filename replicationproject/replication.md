@@ -15,7 +15,7 @@ Banana keyboard
 
 https://makecode.microbit.org/projects/banana-keyboard
 
-![Image](missingimage.png)
+![Image](banana-keyboard-0.jpg)
 
 This project is related to mine because both of the idea is to use something that is conductive as a keyboard.
 
