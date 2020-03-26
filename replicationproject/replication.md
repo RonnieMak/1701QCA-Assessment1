@@ -97,23 +97,21 @@ This project allows the user to turn any thing that is conductive into a button.
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](final.jpg)
 
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image](cross.jpg)
+This is the photo of the product before anything button is pressed you can see the cross icon on the micro bit.
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+The most successful part I felt during the process is when I changed the fruit into something else and it still works. I know it supposed to, but it just makes me feel like I make some good changes. The part I want to improve is I should get some crocodile clip instead of using the wire that comes with the kit. As you can see in the video, I have to hold the cable with my hand and the connection of the cable is not very good as well. So the first time I tried it out it didn't work and makes me wonder if it is the code or I did the wire thing wrong. But it is just the bad connection of the wire. However, I am quite happy about the final outcome. Now I have a much better understanding of how the electric circuit works as well as the coding to control other components.
 
+Obviously this project is based on the related project I mentioned earlier. The made code website describing how to make the banana keyboard is quite useful. As it teaches you how to wire things up as well as the code to control it. As a beginner of the micro bit, it is really easy to understand and learn from. Other than that the Kitronik Inventor’s Kit experiment 1-12 covered almost every component in the micro bit kit and teach me how to use it and build something interesting with it. I also think that the understanding of how the electric current works really helpful in the success of building this project.
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+I've seen other poeples in video they are using the kids toy teddy bear to perform music. (https://www.youtube.com/watch?v=1I_EPkHqU20&feature=youtu.be). He is not using the toy as a button, but he did use the conpect of turning something in other usage.
 
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+The extension of this project is it can turned into instrument by adding more conductive objects as long as it have enough pin and the correct code for it. The project itself isn't really going to do much in other situation, however, the concept would help when developing other product. Such as if you have a broken button in the build, you can use other thing to replace it like an orange, key or even yourself. 
