@@ -70,7 +70,10 @@ For this project, I always feel like I am limit by the tools I know. This gives 
 ![Image](test1.jpg)
 This is the code I used to test the component. 
 
-*Include screenshots of the code you have used.*
+![Image](banana.jpg)
+This is the orginal code from the related project.
+![Image](test2.jpg)
+This is the code I modified for my own project, I added LED icon both before and after the sound is played. 
 
 ## Project outcome ##
 
