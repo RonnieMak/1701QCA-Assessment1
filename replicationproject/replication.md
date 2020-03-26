@@ -68,12 +68,19 @@ For this project, I always feel like I am limit by the tools I know. This gives 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 ![Image](test1.jpg)
-This is the code I used to test the component. 
+This is the code I used to test the component.
+
+![Image](first_try.jpg) 
+This is the outcome of the first code.
 
 ![Image](banana.jpg)
 This is the orginal code from the related project.
+
 ![Image](test2.jpg)
-This is the code I modified for my own project, I added LED icon both before and after the sound is played. 
+This is the code I modified for my own project, I added LED icon both before and after the sound is played. Cross mean the music haven't been played yet and the music icon mean the music is played.
+
+![Image](wire.jpg)
+This is the wire set up for the modified code. 
 
 ## Project outcome ##
 
