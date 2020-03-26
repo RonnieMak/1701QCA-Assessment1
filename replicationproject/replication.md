@@ -57,7 +57,7 @@ For this project, I always feel like I am limit by the tools I know. This gives 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](flowchart.jpg)
 
 ## Process documentation
 
@@ -67,7 +67,7 @@ For this project, I always feel like I am limit by the tools I know. This gives 
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](missingimage.png)
+![Image](test1.jpg)
 
 *Include screenshots of the code you have used.*
 
