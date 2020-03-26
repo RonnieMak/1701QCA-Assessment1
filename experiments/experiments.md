@@ -89,5 +89,5 @@ Photo shown the successful build of the Random dice, I rowed a 5 in the photo.
 
 In this experiment, something new to me was or something I learned was how to build and wire a complicated LED set up and how to use the if.....else... code to create some random number and show it with the LED light. Which is useful if in the feature I need to generate a random number to control different component. 
 
-This experiment could be the basis of a real world application such as play a random song in the playlist if you thing of each song is a number and when you press the button it select a random number and the LED is to play it. Or some gambling equipment, in this case they will just have to add more number in it. 
+This experiment could be the basis of a real world application such as play a random song in the playlist if you think of each song is a number and when you press the button it select a random number and the LED is to play it. Or some gambling equipment, in this case they will just have to add more number in it. 
 
