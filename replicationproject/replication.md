@@ -5,7 +5,7 @@
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+Banana keyboard
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
@@ -17,7 +17,7 @@ https://makecode.microbit.org/projects/banana-keyboard
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because both of the idea is to use something that is conductive as a keyboard.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
@@ -26,13 +26,13 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Ever since I started to think of studying design, I always thought that a designer is to design product for people. It is like give and take. Designer designed something and the user use it as simple as that. I haven't really consider about anything like user experience or feedback etc. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+Don used a few daily life example to explain the importance of the consideration when designing product for the specific users. A few key words has been mentioned such as affordances, signifiers, conceptual models and feedback. To me the most impresssive idea is affordances and feedback. First, affordances, it genuinely mean the relationship between a physical object and a person. It determent how the object could possibly be used. It changed my mind that the user experience is a big part in design, it affected how well the product can be used for the specific group of users that we are designing for. Second, feedback, it mean communicating the results of an action toward the users. Which is a critical consideration in design as well. Users might feel annoying if there is too much or lack of feedback. Also, how to provide a effective feedback with minimum costs and changes to the orginal design a duty of a designer as well. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I was wondering as a user, I believe the people who designed the products to actually sell them on the market especically those big international brand. What I often see is there is always something that is not satisfy on the design. I believe the people or team who designed it put in a lot of effort considering all of the situation when it is in used. So why there is always some disadvantages in their products? It makes me wonder is it because there is no such thing like a perfect design or we can only design for "most" of the users but not "all" of the user.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+When I am designing my own project, I can apply the signifiers and feedback idea in it. The keyboard itselfs doesn't have any sign on it to let users know what to do or if they are doing it right. If I can add some signifiers in it and give them feedback when they doing it right and wrong it can really improve the useability of the design. 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
