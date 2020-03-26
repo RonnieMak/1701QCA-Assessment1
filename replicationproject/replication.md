@@ -36,24 +36,23 @@ When I am designing my own project, I can apply the signifiers and feedback idea
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-Before reading the article, I thought interaction have to be something big or additional to the design. Such as a extra screen, sound or LED light etc. And when designing product for the users I always trying to control the user to interact with my design. 
+Before reading the article, I thought interaction have to be something big or additional to the design. Such as an extra screen, sound or LED light, etc. And when designing product for the users I always trying to control the user to interact with my design. 
 
-After reading and analysis the article, I found out that interaction could be something within the design without the users even notice. Other than control the users to interact with my design. I can lead the users to interact with their intution which is the best way to interact with them.  And it really don't have to be something big or noticable. Dan used the toaster as an example and I think it is quite effective. The toaster don't have to have a screen or loud beep to let you know your toast is done. Instead when the toast is done it will pops up and our intution is to pick it up. This is a very simple interaction built in the design. And if you think deeper you will realiese that the toaster itself is a microinteractions. Of course in many others example it could be much more complieced but their basic concept are all the same. 
+After reading and analysis the article, I found out that interaction could be something within the design without the users even notice. Other than control the users to interact with my design. I can lead the users to interact with their intuition which is the best way to interact with them.  And it really doesn't have to be something big or noticeable. Dan used the toaster as an example and I think it is quite effective. The toaster doesn't have to have a screen or loud beep to let you know your toast is done. Instead, when the toast is done it will pop up and our intuition is to pick it up. This is a very simple interaction built in the design. And if you think deeper you will realize that the toaster itself is microinteractions. Of course in many other examples, it could be much more complicated but their basic concept is all the same.  
 
-I want to know if there is a way to measure the level of the interaction and see how it changes the user experience. So we can deside wheather we should add or reduce the interaction.  
+I want to know if there is a way to measure the level of the interaction and see how it changes the user experience. So we can decide whether we should add or reduce the interaction. 
 
-The project I am doing require interaction with the users. This article has given me an idea of how and what should I do when putting interaction in the design. Such as I can return some sounds or LED light when the users interacting with the design or show it on the mirco bit screen. And the principle is effective and smooth, no odd or unnecessary feedback. 
+The project I am doing requires interaction with the users. This article has given me an idea of how and what should I do when putting interaction in the design. Such as I can return some sounds or LED light when the users interacting with the design or show it on the micro bit screen. And the principle is effective and smooth, with no odd or unnecessary feedback.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before reading the article, I always thought the prototype must be something big or complete. Like at least 80% of the product and building it up with high level quailty. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+While now I know that's no quite the case in prototyping. Prototyping can be done in any stage when designing. And it can be done with wild range of tools. Actually, the more the tools you learned to use, the better your prototype and the final result will be. According to what the acticle said it is like opening whole new dimension each time you learn a new tool. In order the maximise the final outcome, familiar to the tools you use and learn other tools as much as you can. You will thank yourself in the feature. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I wanna to know more tools we can use for making the product. Such as sketching, mapping, concepting and making physical product. That sooner I learn, the better I can do in the next project. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
+For this project, I always feel like I am limit by the tools I know. This gives me an idea why, and I should change my mind. In the pass I always thinking what can I do with the tools I know. But now I should think what tools I can use to help develop my idea. I might try to use different tools in this project. 
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
