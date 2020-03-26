@@ -68,6 +68,7 @@ For this project, I always feel like I am limit by the tools I know. This gives 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 ![Image](test1.jpg)
+This is the code I used to test the component. 
 
 *Include screenshots of the code you have used.*
 
@@ -76,10 +77,11 @@ For this project, I always feel like I am limit by the tools I know. This gives 
 https://www.youtube.com/watch?v=-5ka1FrSH1k
 
 ### Project title ###
+Turn anything conductive into button
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This project allows the user to turn any thing that is conductive into a button. By pressing the button it will produce a sound. I set it up with 2 buttons which play different sound. This is just a simple example, it can be modified to play like an instrument. 
 
 ### Showcase image ###
 
